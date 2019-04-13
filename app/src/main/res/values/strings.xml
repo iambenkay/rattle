@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Rattle</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <string name="open_nav">open navigation</string>
+    <string name="close_nav">close navigation</string>
+</resources>

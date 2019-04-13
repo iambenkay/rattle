@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="100dp"
+    android:gravity="center_horizontal"
+    android:paddingTop="30dp"
+    android:text="No more posts to view"
+    android:textColor="@color/colorAccent"
+    android:textSize="15sp"
+    android:textStyle="bold">
+
+</TextView>
